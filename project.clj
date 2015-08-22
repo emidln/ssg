@@ -1,4 +1,4 @@
-(defproject com.emidln/ssg "0.1.0"
+(defproject com.emidln/ssg "0.1.1"
   :description "A Static Site Generator using Hiccup"
   :url "https://github.com/emidln/ssg"
   :license {:name "Eclipse Public License"
