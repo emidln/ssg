@@ -10,9 +10,7 @@ output-dir.
 
 Put this in your project.clj:
 
-```clj
-[com.emidln/ssg "0.1.0"]
-```
+[![Clojars Project](http://clojars.org/com.emidln/ssg/latest-version.svg)](http://clojars.org/com.emidln/ssg)
 
 and then use it like this:
 
